@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">돌려 돌림판</string>
+    <string name="main_start">시작</string>
+    <string name="display_monitor">현재 회전단계</string>
+    <string name="setting_arrow">화살\n설정</string>
+    <string name="setting_speed">속도\n설정</string>
+    <string name="dialog_duration_title">회전단계 설정</string>
+    <string name="dialog_duration_small">조금</string>
+    <string name="dialog_duration_midium">보통</string>
+    <string name="dialog_duration_large">많이</string>
+    <string name="dialog_duration_cancel">취소</string>
+    <string name="dialog_duration_apply">확인</string>
+    <string name="dialog_pointer_title">이미지 변경</string>
+    <string name="dialog_pointer_context">이미지를 선택해주세요.</string>
+    <string name="sound_title">효과음</string>
+    <string name="setting_background">배경\n설정</string>
+    <string name="dialog_background_title">배경 변경</string>
+    <string name="dialog_background_context">색을 선택해주세요.</string>
+    <string name="dialog_background_button">무작위</string>
+</resources>

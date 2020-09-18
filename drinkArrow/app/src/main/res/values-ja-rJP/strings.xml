@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">回れ！指し棒</string>
+    <string name="main_start">スタート</string>
+    <string name="display_monitor">現在 回転量</string>
+    <string name="setting_arrow">指し棒\n設定</string>
+    <string name="setting_speed">スピード\n設定</string>
+    <string name="dialog_duration_title">回転 設定</string>
+    <string name="dialog_duration_small">少し</string>
+    <string name="dialog_duration_midium">普通</string>
+    <string name="dialog_duration_large">多め</string>
+    <string name="dialog_duration_cancel">"キャンセル "</string>
+    <string name="dialog_duration_apply">確定</string>
+    <string name="dialog_pointer_title">イメージ　変更</string>
+    <string name="dialog_pointer_context">イメージを選んでください。</string>
+    <string name="sound_title">効果音</string>
+    <string name="setting_background">背景色\n変更</string>
+    <string name="dialog_background_title">背景 変更</string>
+    <string name="dialog_background_context">色を選んでください</string>
+    <string name="dialog_background_button">ランダム</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Roulette Wheel Spinner</string>
+
+    <string name="main_start">Start</string>
+
+    <string name="display_monitor">"Current amount of rotation"</string>
+
+    <string name="setting_arrow">Pointer\nSetting</string>
+    <string name="setting_speed">Rotation\nSetting</string>
+    <string name="setting_background">Color\nSetting</string>
+
+    <string name="dialog_duration_title">Rotation Setting</string>
+    <string name="dialog_duration_small">less</string>
+    <string name="dialog_duration_midium">normal</string>
+    <string name="dialog_duration_large">much</string>
+    <string name="dialog_duration_cancel">CANCEL</string>
+    <string name="dialog_duration_apply">APPLY</string>
+
+    <string name="dialog_pointer_title">IMAGE CHANGE</string>
+    <string name="dialog_pointer_context">Please select an image</string>
+
+    <string name="dialog_background_title">BACKGROUND CHANGE</string>
+    <string name="dialog_background_button">RANDOM</string>
+    <string name="dialog_background_context">Please select a Color</string>
+
+
+    <string name="sound_title">Sound</string>
+
+
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <!-- My App ID : ca-app-pub-6656436186511889~7728184380 -->
+    <string name="ad_app_unit_id" translatable="false">ca-app-pub-6656436186511889~7728184380</string>
+    <!-- Test Banner ID : ca-app-pub-3940256099942544/6300978111-->
+    <!-- My Banner ID : ca-app-pub-6656436186511889/6084161734 -->
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-6656436186511889/6084161734</string>
+    <!-- Test Front ID : ca-app-pub-3940256099942544/1033173712 -->
+    <!-- My Front ID : ca-app-pub-6656436186511889/3762456006 -->
+    <string name="front_ad_unit_id" translatable="false">ca-app-pub-6656436186511889/3762456006</string>
+</resources>

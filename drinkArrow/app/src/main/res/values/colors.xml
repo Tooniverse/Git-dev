@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTrans">#00FFFFFF</color>
+    <color name="colorlightPurple">#FFFAE4E4</color>
+
+    <color name="image_A">#FFAEAE</color>
+    <color name="image_B">#FBF3AC</color>
+    <color name="image_C">#B3FDBA</color>
+    <color name="image_D">#88E4DA</color>
+    <color name="image_E">#A9A9FB</color>
+    <color name="image_F">#E8A7FF</color>
+
+</resources>

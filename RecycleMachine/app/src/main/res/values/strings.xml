@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">재분모</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Title">재활용품\n분리수거\n모니터링</string>
+    <string name="mainButton">조회</string>
+</resources>

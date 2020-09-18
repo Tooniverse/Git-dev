@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">여행자</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">지도</string>
+    <string name="title_notifications">출석</string>
+    <string name="Notic_check">확인</string>
+    <string name="Home_title">여행객\n위치\n관리</string>
+    <string name="Homebtn_call">\n모두 호출\n</string>
+    <string name="Homebtn_setting">상태</string>
+    <string name="Homebtn_info">정보</string>
+    <string name="Notic_text">출석확인</string>
+    <string name="Toast_call">모두에게 호출하였습니다</string>
+    <string name="btn_reset">초기화</string>
+    <string name="check_start">출석시작</string>
+    <string name="button">Button</string>
+    <string name="contentDescription">Button</string>
+
+
+    <!-- UI, Activity, Fragment -->
+    <string name="permission_desc">This app requires below permissions\nfor scanning BT devices.\n\nandroid.permission.ACCESS_FINE_LOCATION\nandroid.permission.ACCESS_COARSE_LOCATION</string>
+    <string name="title_example">Incoming messages</string>
+    <string name="btn_send">Send</string>
+
+    <!-- Bluetooth -->
+    <string name="bt_title">Bluetooth</string>
+    <string name="bt_state_init">initializing</string>
+    <string name="bt_state_wait">waiting.. (select a device manually)</string>
+    <string name="bt_state_connect">connecting</string>
+    <string name="bt_state_connected">connected</string>
+    <string name="bt_state_error">error</string>
+    <string name="bt_not_enabled_leaving">Bluetooth is not enabled. Set the bluetooth on at phone settings.</string>
+    <string name="bt_cmd_sending_error">Transaction failed</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="discoverable_desc">Action request discoverable.</string>
+    <string name="discoverable_fail_desc">Cannot set discoverable.</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect\na device</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="title_activity_status">StatusActivity</string>
+    <string name="guest_1">고객 1</string>
+    <string name="guest_2">고객 2</string>
+    <string name="guest_3">고객 3</string>
+    <string name="guest_4">고객 4</string>
+    <string name="guest_5">고객 5</string>
+    <string name="guest_0">가이드 기기</string>
+</resources>

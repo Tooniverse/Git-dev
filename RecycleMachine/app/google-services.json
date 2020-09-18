@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427757232641",
+    "firebase_url": "https://recyclemachine.firebaseio.com",
+    "project_id": "recyclemachine",
+    "storage_bucket": "recyclemachine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427757232641:android:69a7b30e88f576fa835600",
+        "android_client_info": {
+          "package_name": "com.example.recyclemachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427757232641-1qqtsgmblfl9rieuvam599iucrue8dod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskjnJCKRZXYZQK7G09x6Vsua-2iOP3ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427757232641-1qqtsgmblfl9rieuvam599iucrue8dod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

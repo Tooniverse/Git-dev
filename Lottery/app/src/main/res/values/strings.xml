@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">오늘로또</string>
+    <string name="main_title">로또\n번호\n만들기</string>
+    <string name="select_menu">로또번호\n뽑으러가기</string>
+    <string name="internet_menu">당첨번호\n보러가기</string>
+    <string name="data_menu">저장한 번호\n보러가기</string>
+    <string name="setting_sound">효과음</string>
+    <string name="title_activity_choose_">선택하기</string>
+    <string name="auto_card">나머지\n채우기</string>
+    <string name="title_dashboard">선택</string>
+    <string name="title_notifications">측정</string>
+
+
+    <!-- roulette -->
+    <string name="title_home">돌려돌려</string>
+    <string name="title_dash">뽑아뽑아</string>
+    <string name="title_noti">흔들흔들</string>
+    <string name="title_rand">두근두근</string>
+
+    <string name="roulette_spinbutton"></string>
+    <string name="roulette_resetbutton">리셋</string>
+    <string name="roulette_saveutton">저장</string>
+    <string name="title_activity_save">저장된 로또번호</string>
+
+    <string name="ad_app_unit_id">ca-app-pub-6656436186511889~7529251139</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6656436186511889/4136801030</string>
+    <string name="front_ad_unit_id">ca-app-pub-6656436186511889/6519970537</string>
+
+    
+    <!-- 설명 -->
+    <string name="save_text_HighLow">낮은수(1~22) : 높은수(23~45)</string>
+    <string name="save_text_OddEven">홀수 : 짝수</string>
+    <string name="save_text_Chain">연속된 숫자 수</string>
+    <string name="save_text_TenOne">첫수합(10의자리 합) / 끝수합(1의자리 합)</string>
+    <string name="save_text_SumHL">가장 큰 수 + 가장 작은 수</string>
+    <string name="save_text_Interval">숫자간의 간격 합</string>
+    <string name="save_text_Sum123_456">1,2,3자리 합 / 4,5,6자리 합</string>
+    <string name="save_text_Allsum">숫자의 총합</string>
+
+
+</resources>
